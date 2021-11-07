@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Oddinx/source/repos/Panter2/Panter2/Content/snd_music.wma</SourceFile>
+  <SourceTime>2020-06-10T16:38:21.2058964-05:00</SourceTime>
+  <DestFile>C:/Users/Oddinx/source/repos/Panter2/Panter2/Content/bin/Windows/Content/snd_music.xnb</DestFile>
+  <DestTime>2020-06-10T16:40:25.8880278-05:00</DestTime>
+  <Importer>WmaImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Oddinx/source/repos/Panter2/Panter2/Content/bin/Windows/Content/snd_music.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
